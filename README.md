@@ -2,7 +2,7 @@
 
 **How to run?:**
 1. Clone the repository.
-2. run npm install
+2. run npm install in frontend folder
 3. install the requirements from requirements.txt for backen in the .venv
 4. run the backend: uvicorn main:app --reload --port 8000 in the .venv environment
 5. Then, run the frontend: npm run dev<br/><br/>
